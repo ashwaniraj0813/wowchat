@@ -36,7 +36,7 @@ To install the Real-Time Chat App, follow these steps:
 2.		Navigate to the project directory:
 3.		Install dependencies (do this in both server and client directory): npm install
 4.		For server-side go to server file and run node index.js
-5.		For client run go to client file run npm start
+5.		For client-side go to client file and run npm start
 
 
 •	Running the App
@@ -51,7 +51,7 @@ To install the Real-Time Chat App, follow these steps:
 
 • Registration and Login
 
-1.	User can register for an account using phone no. and can generate own username and password for the reference image is attached below.
+1.	User can register for an account using phone no. and can generate own username and password for the reference image is attached below. Avatar URL is basically for setting the profile pic.
    
    ![image](https://github.com/ashwaniraj0813/Ashwani-Raj/assets/122291624/bc8604da-94d4-4033-abd5-23585b2116a2)
 
@@ -83,6 +83,11 @@ To install the Real-Time Chat App, follow these steps:
 1. Stream-chat : It provides chat API and SDKs for custom messaging applications. It enables users to build real-time chat quickly
 2. Stream-chat-react : This library provide set of  React components that make it easy to build chat and messaging applications. It is built on top of the Stream Chat API, which provides a powerful and flexible backend for chat.
 3. Universal-cookie : This is JavaScript library that provides a simple API for setting and reading cookies in both server-side and client-side code
+
+
+
+
+# I hope you love this :)
 
 
 
