@@ -34,7 +34,7 @@
 To install the Real-Time Chat App, follow these steps:
 1.	Clone the repository:
 2.		Navigate to the project directory:
-3.		Install dependencies: npm install
+3.		Install dependencies (do this in both server and client directory): npm install
 4.		For server-side go to server file and run node index.js
 5.		For client run go to client file run npm start
 
