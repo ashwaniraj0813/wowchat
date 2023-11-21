@@ -42,7 +42,7 @@ To install the Real-Time Chat App, follow these steps:
 •	Running the App
 
 1. Access the app in your browser at http://localhost:3000
-2. It can also be access by this url:______ as it is launched on Heroku.
+
 
 
 
@@ -73,16 +73,16 @@ To install the Real-Time Chat App, follow these steps:
 # Libraries used
 
 • Libraries used in making server-side application are as below:
-1. Bcrypt
-2. 	Crypto
-3. 	Dotenv
-4. 	Express
-5. 	Getstream-chat
+1. Bcrypt : I used this for hashing the passwords for safe storage.
+2. Crypto : I use this library to implement cryptographic algorithims. so that it secure the messages between two or more particpants
+3. Dotenv : i used this to keep my passwords, API keys, and other sensitive data out of my code.
+4. Express : i used this because it provide handlers for requests with different HTTP verbs at different URL paths (routes).
+5. Getstream-chat : It provides chat API and SDKs for custom messaging applications. It offers a reliable chat infrastructure for building real-time chat quickly
 
 • Libraries used in making client-side application are as below:
-1. Stream-chat
-2. Stream-chat-react
-3. Universal-cookie
+1. Stream-chat : It provides chat API and SDKs for custom messaging applications. It enables users to build real-time chat quickly
+2. Stream-chat-react : This library provide set of  React components that make it easy to build chat and messaging applications. It is built on top of the Stream Chat API, which provides a powerful and flexible backend for chat.
+3. Universal-cookie : This is JavaScript library that provides a simple API for setting and reading cookies in both server-side and client-side code
 
 
 
