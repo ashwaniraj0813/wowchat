@@ -5,7 +5,7 @@
 
 # Introduction 
 
-   This document provides comprehensive guidance on using and developing the Real-Time Chat App (wowchat).
+   This document provides comprehensive guidance on using and setting up the Real-Time Chat App (wowchat).
    The application allows users to engage in real-time text conversations, where user can able to message directly to his friend and even make a group on the chatting app.
 
      
